@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <generator>Audion (https://www.audion.fm)</generator>
+        <atom:link href="https://dev-feeds.360.audion.fm/VZIwQfvESRwdCmdFWTWTP" rel="self" type="application/rss+xml"/>
+        <title>Shrimpies - 🦐</title>
+        <link>https://audion.dev-hub.360.audion.fm/en/shrimpies</link>
+        <description><![CDATA[<p>A simple podcast about our favorite invertebrates. And soon yours as well !</p><p> <br />Hosted by Audion. Visit <a href="https://www.audion.fm/privacy-policy" rel="noopener noreferrer" target="_blank">https://www.audion.fm/privacy-policy</a> for more information.</p>]]></description>
+        <language>en</language>
+        <pubDate>Wed, 23 Oct 2024 08:55:07 GMT</pubDate>
+        <lastBuildDate>Thu, 20 Mar 2025 14:39:34 GMT</lastBuildDate>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:image href="https://dev-artworks.360.audion.fm/0992a60c-a93c-4f56-9b6d-01beb4b8d53a.png?width=3000&amp;height=3000"/>
+        <image>
+            <url><![CDATA[https://dev-artworks.360.audion.fm/0992a60c-a93c-4f56-9b6d-01beb4b8d53a.png?width=3000&height=3000]]></url>
+            <link>https://audion.dev-hub.360.audion.fm/en/shrimpies</link>
+            <title>Shrimpies - 🦐</title>
+        </image>
+        <itunes:category text="Education"/>
+        <itunes:author>Theo</itunes:author>
+        <itunes:owner>
+            <itunes:name>Theo</itunes:name>
+            <itunes:email>theo@audi-on.com</itunes:email>
+        </itunes:owner>
+        <itunes:type>serial</itunes:type>
+    </channel>
+</rss>

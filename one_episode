@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <generator>Audion (https://www.audion.fm)</generator>
+        <atom:link href="https://dev-feeds.360.audion.fm/VZIwQfvESRwdCmdFWTWTP" rel="self" type="application/rss+xml"/>
+        <title>Shrimpies - 🦐</title>
+        <link>https://audion.dev-hub.360.audion.fm/en/shrimpies</link>
+        <description><![CDATA[<p>A simple podcast about our favorite invertebrates. And soon yours as well !</p><p> <br />Hosted by Audion. Visit <a href="https://www.audion.fm/privacy-policy" rel="noopener noreferrer" target="_blank">https://www.audion.fm/privacy-policy</a> for more information.</p>]]></description>
+        <language>en</language>
+        <pubDate>Wed, 23 Oct 2024 08:55:07 GMT</pubDate>
+        <lastBuildDate>Thu, 20 Mar 2025 14:39:34 GMT</lastBuildDate>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:image href="https://dev-artworks.360.audion.fm/0992a60c-a93c-4f56-9b6d-01beb4b8d53a.png?width=3000&amp;height=3000"/>
+        <image>
+            <url><![CDATA[https://dev-artworks.360.audion.fm/0992a60c-a93c-4f56-9b6d-01beb4b8d53a.png?width=3000&height=3000]]></url>
+            <link>https://audion.dev-hub.360.audion.fm/en/shrimpies</link>
+            <title>Shrimpies - 🦐</title>
+        </image>
+        <itunes:category text="Education"/>
+        <itunes:author>Theo</itunes:author>
+        <itunes:owner>
+            <itunes:name>Theo</itunes:name>
+            <itunes:email>theo@audi-on.com</itunes:email>
+        </itunes:owner>
+        <itunes:type>serial</itunes:type>
+        <item>
+            <guid isPermaLink="false">f551be26-f978-4cb6-8756-b52a1b1f7da7</guid>
+            <title>Copy of 103 episodes and some shrimps !</title>
+            <itunes:title>Copy of 103 episodes and some shrimps !</itunes:title>
+            <pubDate>Thu, 20 Mar 2025 14:39:25 GMT</pubDate>
+            <description><![CDATA[<p>Discover&nbsp;why&nbsp;ditching&nbsp;artificial&nbsp;plants&nbsp;for&nbsp;real&nbsp;ones&nbsp;can&nbsp;transform&nbsp;your&nbsp;aquarium&nbsp;from&nbsp;a&nbsp;simple&nbsp;fish&nbsp;tank&nbsp;into&nbsp;a&nbsp;thriving&nbsp;ecosystem.&nbsp;A&nbsp;quick&nbsp;guide&nbsp;to&nbsp;the&nbsp;benefits&nbsp;of&nbsp;live&nbsp;plants&nbsp;and&nbsp;why&nbsp;they're&nbsp;worth&nbsp;the&nbsp;extra&nbsp;effort.</p><p> <br />Hosted by Audion. Visit <a href="https://www.audion.fm/privacy-policy" rel="noopener noreferrer" target="_blank">https://www.audion.fm/privacy-policy</a> for more information.</p>]]></description>
+            <content:encoded><![CDATA[<p>Discover&nbsp;why&nbsp;ditching&nbsp;artificial&nbsp;plants&nbsp;for&nbsp;real&nbsp;ones&nbsp;can&nbsp;transform&nbsp;your&nbsp;aquarium&nbsp;from&nbsp;a&nbsp;simple&nbsp;fish&nbsp;tank&nbsp;into&nbsp;a&nbsp;thriving&nbsp;ecosystem.&nbsp;A&nbsp;quick&nbsp;guide&nbsp;to&nbsp;the&nbsp;benefits&nbsp;of&nbsp;live&nbsp;plants&nbsp;and&nbsp;why&nbsp;they're&nbsp;worth&nbsp;the&nbsp;extra&nbsp;effort.</p><p> <br />Hosted by Audion. Visit <a href="https://www.audion.fm/privacy-policy" rel="noopener noreferrer" target="_blank">https://www.audion.fm/privacy-policy</a> for more information.</p>]]></content:encoded>
+            <enclosure url="https://dev-traffic.360.audion.fm/6fa1a332-fbd5-4507-bf5e-6fe758574240.mp3" length="1300316" type="audio/mpeg"/>
+            <itunes:duration>00:01:21</itunes:duration>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+    </channel>
+</rss>
