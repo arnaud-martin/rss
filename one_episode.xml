@@ -23,5 +23,18 @@
             <itunes:email>theo@audi-on.com</itunes:email>
         </itunes:owner>
         <itunes:type>serial</itunes:type>
+        <item>
+            <guid isPermaLink="false">a551be26-f978-4cb6-8756-b52a1b1f7da7</guid>
+            <title>Different GUID</title>
+            <itunes:title>Copy of 103 episodes and some shrimps !</itunes:title>
+            <pubDate>Thu, 20 Mar 2025 14:39:25 GMT</pubDate>
+            <description><![CDATA[<p>Discover&nbsp;why&nbsp;ditching&nbsp;artificial&nbsp;plants&nbsp;for&nbsp;real&nbsp;ones&nbsp;can&nbsp;transform&nbsp;your&nbsp;aquarium&nbsp;from&nbsp;a&nbsp;simple&nbsp;fish&nbsp;tank&nbsp;into&nbsp;a&nbsp;thriving&nbsp;ecosystem.&nbsp;A&nbsp;quick&nbsp;guide&nbsp;to&nbsp;the&nbsp;benefits&nbsp;of&nbsp;live&nbsp;plants&nbsp;and&nbsp;why&nbsp;they're&nbsp;worth&nbsp;the&nbsp;extra&nbsp;effort.</p><p> <br />Hosted by Audion. Visit <a href="https://www.audion.fm/privacy-policy" rel="noopener noreferrer" target="_blank">https://www.audion.fm/privacy-policy</a> for more information.</p>]]></description>
+            <content:encoded><![CDATA[<p>Discover&nbsp;why&nbsp;ditching&nbsp;artificial&nbsp;plants&nbsp;for&nbsp;real&nbsp;ones&nbsp;can&nbsp;transform&nbsp;your&nbsp;aquarium&nbsp;from&nbsp;a&nbsp;simple&nbsp;fish&nbsp;tank&nbsp;into&nbsp;a&nbsp;thriving&nbsp;ecosystem.&nbsp;A&nbsp;quick&nbsp;guide&nbsp;to&nbsp;the&nbsp;benefits&nbsp;of&nbsp;live&nbsp;plants&nbsp;and&nbsp;why&nbsp;they're&nbsp;worth&nbsp;the&nbsp;extra&nbsp;effort.</p><p> <br />Hosted by Audion. Visit <a href="https://www.audion.fm/privacy-policy" rel="noopener noreferrer" target="_blank">https://www.audion.fm/privacy-policy</a> for more information.</p>]]></content:encoded>
+            <enclosure url="https://dev-traffic.360.audion.fm/6fa1a332-fbd5-4507-bf5e-6fe758574240.mp3" length="1300316" type="audio/mpeg"/>
+            <itunes:duration>00:01:21</itunes:duration>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
